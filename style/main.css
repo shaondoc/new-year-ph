@@ -124,7 +124,7 @@
 }
 
 .sec2 {
-  background-image: url("/images/watch.png"), url("/images/gradient1.png");
+  background-image: url("images/watch.png"), url("images/gradient1.png");
   background-position: right bottom, left top;
   border-radius: 10px;
   background-repeat: no-repeat, no-repeat;
